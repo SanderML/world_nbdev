@@ -7,8 +7,8 @@ index = {"say_hello": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://{user}.github.io/world_nbdev/"
+doc_url = "https://Hustens0hn.github.io/world_nbdev/"
 
-git_url = "https://github.com/{user}/world_nbdev/tree/{branch}/"
+git_url = "https://github.com/Hustens0hn/world_nbdev/tree/{branch}/"
 
 def custom_doc_links(name): return None
